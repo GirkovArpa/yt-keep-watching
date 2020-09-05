@@ -8,3 +8,9 @@ Will work in Brave also.
 
 - [ ] Confirm the "Not Now" button is automatically clicked
 - [ ] Confirm the "Are you still watching?" button is automatically clicked
+
+## Bugs
+
+Not working!  This is what happens:
+
+![Animated screencapture from IMGUR](https://i.imgur.com/gkauplk.gif)
